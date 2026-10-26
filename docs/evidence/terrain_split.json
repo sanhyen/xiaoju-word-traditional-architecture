@@ -1,0 +1,21 @@
+{
+  "original_sha256": "1d5a188e799ea1c794a19534eb74390cfc52a9862fa824976ad097e79cbcefdc",
+  "combined_sha256": "1d5a188e799ea1c794a19534eb74390cfc52a9862fa824976ad097e79cbcefdc",
+  "parts": [
+    {
+      "path": "assets/materials/terrain_field110.part0",
+      "sha256": "b1fa0fe3d7e2b47fafa49712ec0d68e09487cd96df5e9e4a990c7b0a7a5c3dcc",
+      "bytes": 50331648
+    },
+    {
+      "path": "assets/materials/terrain_field110.part1",
+      "sha256": "4e82198a134e2e436de069cc3802b7658cc8c9bc10325f8b432b3178fb67590f",
+      "bytes": 50331648
+    },
+    {
+      "path": "assets/materials/terrain_field110.part2",
+      "sha256": "e57de60c487d017702093da2b85feb61c1e51bb0789d7dfd1c0e20b4f9692c89",
+      "bytes": 50331648
+    }
+  ]
+}

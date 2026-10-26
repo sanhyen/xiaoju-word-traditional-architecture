@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "test": "walk_independent_public_profile",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "disclosed_H10_fixture_loaded",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "ordinary_keys_enter_house",
+      "passed": true,
+      "details": {
+        "start": [
+          43.0,
+          4.16522741317749,
+          94.0
+        ],
+        "end": [
+          43.0,
+          4.16522741317749,
+          88.3541946411133
+        ],
+        "inside": "H10"
+      }
+    },
+    {
+      "test": "capture_public160_native_house",
+      "passed": true,
+      "details": {
+        "position": [
+          43.0,
+          4.16522741317749,
+          88.1597518920898
+        ],
+        "yaw": 0.0,
+        "pitch": -0.2,
+        "zoom": 6.0,
+        "player_enabled": true,
+        "on_floor": true
+      }
+    },
+    {
+      "test": "ordinary_keys_exit_house",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "F5_writes_public_save",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "map_opens_by_key",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "cold_independent_public_profile",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test": "cold_restores_walked_position",
+      "passed": true,
+      "details": {
+        "actual": [
+          43.2431488037109,
+          4.16522741317749,
+          93.5069427490234
+        ],
+        "expected": [
+          43.2431488037109,
+          4.16522741317749,
+          93.5069427490234
+        ]
+      }
+    },
+    {
+      "test": "cold_preserves_public_collections",
+      "passed": true,
+      "details": {}
+    }
+  ],
+  "cold_exit_code": 0,
+  "scope": "Disclosed public-demo H10 starting fixture. Actual Windows keyboard/mouse entry and exit, map, F5, cold restore and ordinary save-and-exit. Initial exit lost foreground focus when another test started; only exit/restore followed up. No private save input."
+}

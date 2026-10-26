@@ -1,0 +1,255 @@
+{
+	"checks": [
+		{
+			"data": {},
+			"id": "public_profile_is_separate",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "public_save_directory",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "screenshot_menu",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "new_game_starts",
+			"ok": true
+		},
+		{
+			"data": {
+				"missing": [],
+				"total": 516
+			},
+			"id": "protected_501_ids",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "unique_ids",
+			"ok": true
+		},
+		{
+			"data": {
+				"missing": [],
+				"records": 83
+			},
+			"id": "all_83_buildings_have_authored_changes",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "58_outdoor_contracts",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 130
+			},
+			"id": "130_registered_floor_surfaces",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 284,
+				"missing_or_reparented": []
+			},
+			"id": "278_original_map_entries",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 63
+			},
+			"id": "all_63_item_definitions",
+			"ok": true
+		},
+		{
+			"data": {
+				"changed": []
+			},
+			"id": "original_item_ids_categories_and_costs",
+			"ok": true
+		},
+		{
+			"data": {
+				"drift": []
+			},
+			"id": "bake_matches_all_sources",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_sunset",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_rehearsal",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_wall_stage",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_moon_episode8",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_wall_audio",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_everyday",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_waiting",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_poem",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_frost",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_blossom",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_daily",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_metadata_dual_studio",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "all_public_media_resources_present",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "photo_view_has_texture",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "screenshot_gallery",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "pb_spread_and_navigation",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "screenshot_pb",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "map_opens",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "plaza_stream_ready",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "screenshot_world",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "return_to_spawn_stream_ready",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_audio_advances",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "audio_stops_on_exit",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "cinema_region_ready",
+			"ok": true
+		},
+		{
+			"data": {
+				"position_s": 1.175634
+			},
+			"id": "demo_video_advances",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "screenshot_cinema",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "demo_video_reaches_end",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "video_decoder_stops_on_exit",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "library_path_is_local",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "personal_import_index_readable",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "personal_library_opens",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "saved_collection_and_marker",
+			"ok": true
+		}
+	],
+	"failures": [],
+	"gpu": "Intel(R) Arc(TM) 130V GPU (16GB)",
+	"profile": "Xiaoju Word - Traditional Architecture",
+	"renderer": "mobile",
+	"resolution": "(1920.0, 1080.0)",
+	"scope": "Public media, preserved catalog, UI, local library and save/restore smoke; not full-world art or performance acceptance",
+	"version": "0.16.0-open.1"
+}

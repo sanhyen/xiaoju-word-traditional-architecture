@@ -1,0 +1,27 @@
+{
+	"affected_scenes": [
+		{
+			"geometry_collision_equal": true,
+			"scene": "cell_-1_1.scn"
+		},
+		{
+			"geometry_collision_equal": true,
+			"scene": "cell_-2_1.scn"
+		},
+		{
+			"geometry_collision_equal": true,
+			"scene": "cell_-3_-3.scn"
+		},
+		{
+			"geometry_collision_equal": true,
+			"scene": "cell_2_-3.scn"
+		},
+		{
+			"geometry_collision_equal": true,
+			"scene": "far.scn"
+		}
+	],
+	"identical_files": 221,
+	"passed": true,
+	"total_scenes": 226
+}

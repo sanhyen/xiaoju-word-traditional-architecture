@@ -1,0 +1,36 @@
+{
+  "resolved": true,
+  "records": [
+    {
+      "phase": "source import 01",
+      "reason": "A public-wording extraction accidentally included the JSON field scope; fixed and import passed."
+    },
+    {
+      "phase": "scene rewrite 01",
+      "reason": "Audit script variable conflicted with SceneTree.current_scene; renamed before any scene write."
+    },
+    {
+      "phase": "scene rewrite 02",
+      "reason": "Geometry audit encountered empty MeshInstance3D nodes. Added null guard; final scan passed. Five affected scenes separately compared with original geometry and collision."
+    },
+    {
+      "phase": "source item test 01",
+      "reason": "Historical FakeMain test object lacked the palace field added in version 0140. Added a null field to the test double; all 18 existing tests passed."
+    },
+    {
+      "phase": "package launch test 01",
+      "reason": "Release engine does not accept --path; runner corrected to launch from package directory."
+    },
+    {
+      "phase": "package smoke 02",
+      "passed_checks": 44,
+      "failed_checks": 1,
+      "reason": "GLB is converted to an imported scene in export; raw GLB byte hash is unavailable. Added exact imported mesh-array/transform contract for 26 component groups. Final package contract follow-up: 11 checks passed."
+    },
+    {
+      "phase": "native 01 exit",
+      "passed_checks": 7,
+      "reason": "A concurrently started restore window took foreground focus. Owned-window guard stopped input. Follow-up ran alone, reused existing F5 save, and passed cold restore plus ordinary exit."
+    }
+  ]
+}

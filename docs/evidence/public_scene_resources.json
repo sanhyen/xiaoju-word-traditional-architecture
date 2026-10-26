@@ -1,0 +1,168 @@
+{
+	"embedded_replacements": 1,
+	"errors": [],
+	"modified": [
+		{
+			"changes": 1,
+			"geometry_collision_persisted_equal": true,
+			"scene": "far.scn"
+		}
+	],
+	"passed": true,
+	"scenes": 226,
+	"textures": {
+		"far.scn::res://assets/world/stream_precision160/far.scn::ImageTexture_vs4sf": {
+			"sha256_pixels": "07828d3069aad5bd9ef785e46b3077fd407309830a967e684bcb04513c54e02b",
+			"size": "(381, 512)",
+			"type": "ImageTexture"
+		},
+		"res://assets/craft160/models/precision_library_artisan_paint.png": {
+			"path": "res://assets/craft160/models/precision_library_artisan_paint.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_linen.png": {
+			"path": "res://assets/craft160/models/precision_library_linen.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_porcelain.png": {
+			"path": "res://assets/craft160/models/precision_library_porcelain.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_stone.png": {
+			"path": "res://assets/craft160/models/precision_library_stone.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_stone_normal.png": {
+			"path": "res://assets/craft160/models/precision_library_stone_normal.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_wood.png": {
+			"path": "res://assets/craft160/models/precision_library_wood.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/craft160/models/precision_library_wood_normal.png": {
+			"path": "res://assets/craft160/models/precision_library_wood_normal.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/maps/bay_arrival.svg": {
+			"path": "res://assets/maps/bay_arrival.svg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/materials/biome_field130.png": {
+			"path": "res://assets/materials/biome_field130.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_01.jpg": {
+			"path": "res://assets/media/bay_life/life_01.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_02.jpg": {
+			"path": "res://assets/media/bay_life/life_02.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_03.jpg": {
+			"path": "res://assets/media/bay_life/life_03.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_04.jpg": {
+			"path": "res://assets/media/bay_life/life_04.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_05.jpg": {
+			"path": "res://assets/media/bay_life/life_05.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_06.jpg": {
+			"path": "res://assets/media/bay_life/life_06.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/life_07.jpg": {
+			"path": "res://assets/media/bay_life/life_07.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/poster_rehearsal.jpg": {
+			"path": "res://assets/media/bay_life/poster_rehearsal.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/poster_sunset.jpg": {
+			"path": "res://assets/media/bay_life/poster_sunset.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/bay_life/poster_wall_stage.jpg": {
+			"path": "res://assets/media/bay_life/poster_wall_stage.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/blossom.jpg": {
+			"path": "res://assets/media/dual106/blossom.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/everyday.jpg": {
+			"path": "res://assets/media/dual106/everyday.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/frost.jpg": {
+			"path": "res://assets/media/dual106/frost.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/poem.jpg": {
+			"path": "res://assets/media/dual106/poem.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/studio.jpg": {
+			"path": "res://assets/media/dual106/studio.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/dual106/waiting.jpg": {
+			"path": "res://assets/media/dual106/waiting.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_01.jpg": {
+			"path": "res://assets/media/portrait_01.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_02.jpg": {
+			"path": "res://assets/media/portrait_02.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_03.jpg": {
+			"path": "res://assets/media/portrait_03.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_04.jpg": {
+			"path": "res://assets/media/portrait_04.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_05.jpg": {
+			"path": "res://assets/media/portrait_05.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_06.jpg": {
+			"path": "res://assets/media/portrait_06.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_07.jpg": {
+			"path": "res://assets/media/portrait_07.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_08.jpg": {
+			"path": "res://assets/media/portrait_08.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_09.jpg": {
+			"path": "res://assets/media/portrait_09.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/portrait_10.jpg": {
+			"path": "res://assets/media/portrait_10.jpg",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/records_sunset_still.png": {
+			"path": "res://assets/media/records_sunset_still.png",
+			"type": "CompressedTexture2D"
+		},
+		"res://assets/media/records_wall_still.png": {
+			"path": "res://assets/media/records_wall_still.png",
+			"type": "CompressedTexture2D"
+		}
+	}
+}

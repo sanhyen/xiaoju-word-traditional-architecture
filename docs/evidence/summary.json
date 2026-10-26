@@ -1,0 +1,25 @@
+{
+  "version": "0.16.0-open.1",
+  "project": "Xiaoju Word - Traditional Architecture",
+  "source_private_baseline": "0160b",
+  "public_pck_sha256": "bcf9e30ae87dd112a69be980b3d39c9f1017ec1b06c81849467cead44abe293f",
+  "source_smoke": 45,
+  "source_cold_restore": 5,
+  "item_tests": 18,
+  "package_smoke_initial": {
+    "passed": 44,
+    "failed": 1,
+    "resolved_by": "package_contracts"
+  },
+  "final_package_contracts": 11,
+  "final_package_restore": 5,
+  "native_merged": 10,
+  "scene_resources_checked": 226,
+  "identical_scene_files": 221,
+  "changed_scene_geometry_and_collision_equal": 5,
+  "registered_assets": 136,
+  "protected_files_unchanged": 169,
+  "art_approval": false,
+  "public_performance_retested": false,
+  "screenshots": "Two representative actual images from the first public export, before a QA-only script correction and re-export; not retaken as final-package images."
+}

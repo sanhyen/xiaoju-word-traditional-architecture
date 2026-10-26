@@ -1,0 +1,36 @@
+{
+	"checks": [
+		{
+			"data": {},
+			"id": "public_profile_is_separate",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "public_save_directory",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "cold_restore_marker",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "cold_restore_collection",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "cold_restore_pb_page",
+			"ok": true
+		}
+	],
+	"failures": [],
+	"gpu": "Intel(R) Arc(TM) 130V GPU (16GB)",
+	"profile": "Xiaoju Word - Traditional Architecture",
+	"renderer": "mobile",
+	"resolution": "(1920.0, 1080.0)",
+	"scope": "Public media, preserved catalog, UI, local library and save/restore smoke; not full-world art or performance acceptance",
+	"version": "0.16.0-open.1"
+}

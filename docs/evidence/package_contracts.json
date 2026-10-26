@@ -1,0 +1,83 @@
+{
+	"checks": [
+		{
+			"data": {},
+			"id": "public_profile_is_separate",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "public_save_directory",
+			"ok": true
+		},
+		{
+			"data": {
+				"missing": [],
+				"total": 516
+			},
+			"id": "protected_501_ids",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "unique_ids",
+			"ok": true
+		},
+		{
+			"data": {
+				"missing": [],
+				"records": 83
+			},
+			"id": "all_83_buildings_have_authored_changes",
+			"ok": true
+		},
+		{
+			"data": {},
+			"id": "58_outdoor_contracts",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 130
+			},
+			"id": "130_registered_floor_surfaces",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 284,
+				"missing_or_reparented": []
+			},
+			"id": "278_original_map_entries",
+			"ok": true
+		},
+		{
+			"data": {
+				"actual": 63
+			},
+			"id": "all_63_item_definitions",
+			"ok": true
+		},
+		{
+			"data": {
+				"changed": []
+			},
+			"id": "original_item_ids_categories_and_costs",
+			"ok": true
+		},
+		{
+			"data": {
+				"drift": []
+			},
+			"id": "bake_matches_all_sources",
+			"ok": true
+		}
+	],
+	"failures": [],
+	"gpu": "Intel(R) Arc(TM) 130V GPU (16GB)",
+	"profile": "Xiaoju Word - Traditional Architecture",
+	"renderer": "mobile",
+	"resolution": "(1920.0, 1080.0)",
+	"scope": "Public media, preserved catalog, UI, local library and save/restore smoke; not full-world art or performance acceptance",
+	"version": "0.16.0-open.1"
+}

@@ -1,0 +1,204 @@
+{
+	"bookcase": {
+		"surfaces": [
+			"b70942d70b3da5059720c73b043710ee38616d0d567954e88b4ec464f4514e8d",
+			"97149b58e307b791dd28593960fc9f004e975d5f6117f39f2a01d2b47391ccc0",
+			"e92a482b48d3b84f954f7e0211bce8c08894ea887d47935f70f9dd15dc2e4a9f",
+			"3baac1a527d45b65dc761b733940fcd37c4813fb86082ea7c76154d88d0cfca5",
+			"da875c4739e0b5bdff9809752ffb19438bd892f8215751971e5a8145f888dba3",
+			"6ee0f7ead5ff6a863bc3a051b74583b3539b96ea85b65d310d6aa0e715090490"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"cabinet": {
+		"surfaces": [
+			"b70942d70b3da5059720c73b043710ee38616d0d567954e88b4ec464f4514e8d",
+			"97149b58e307b791dd28593960fc9f004e975d5f6117f39f2a01d2b47391ccc0"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"caisson": {
+		"surfaces": [
+			"0b6bd125f00ebbc714f8c29efbe2330df8c36080bbb60751604148512447548e",
+			"9362f32b7106ed157d3f81c5886113c76a46869daa1fe19633fc4e5dc8c7c079",
+			"831ea86030b06913c070ba6cc52665b4e3301fa3aa92a4b469ad7b03ebff04f1"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"carved_panel": {
+		"surfaces": [
+			"6b71eff1495dd6999e5bd4d7086210199669f07a56e7958b4bc16015151f0e9c",
+			"54593bc0dc2607de87023d77eb9f30fb1eb73fac48910e94245fbe919e8501f7",
+			"f32d2eeb8e1b481f5d2023642c8046d50c6617892b0bcc31d8e694c123e2a85f"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"chair": {
+		"surfaces": [
+			"8aba2d38e8a15d510e7d84a43dd0e056db4347371dfd920baadd18712ff543eb",
+			"81c6e828e8654da804b0ce56f79b80a52adbbaaf8c0af838935f33f1c8b69cc5",
+			"1c7368b2dd8f2238a84dd24700d28d77503fcfffdea9967cc247418a41f6218a",
+			"b444d1224a4abd401b37ebd2ee8aafee1b91cc105e9582982cce380544c3ee49"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"coffer": {
+		"surfaces": [
+			"c24de3eb34ff3d86091f974595acb1018ee80bd27f291e535d8bdd3545bf4a6e",
+			"d65857d46bf3a54de68a104363e221f9c8a2db467a08b128703b94104a0a825f"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"column_base": {
+		"surfaces": [
+			"889324122b6dd7210a07af059678ce95403e2b15849d06dd43698c4c70333c3a",
+			"89cbaac5b672e40720cff18edc0d7bd544817147552ecad150344db1363aa0f7"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"crane": {
+		"surfaces": [
+			"cea62b0737ae0e32ae5b77cceaabce937218db7b726daf3dd0e0b0232ff52380",
+			"5a8734f5d109167d1e19ff0252f9ecd19ddfd8ace2a60b3e20f0732195d3c254",
+			"39a74936541291355b69bf39bf92586dac901ce0c03e1ca2ab12d9b773be4edf",
+			"69b6c85cd747d9f3233f195d3339a32104684ef8c349255b8f62da2bb51e6f21"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"daybed": {
+		"surfaces": [
+			"9a6b200d78a36ac45c3d17007c01f2d7cecb170c0598289b47e39609d7d4a489",
+			"1788743ceb523ac0a2dabdd4ca4abd24418d95a49efc36188e458a7164305f36",
+			"01dace17ba49c5f4193665fe918816b79b657fb3d9be8e4269f50a96886fb099",
+			"52ef16896317638661cbd7d8368b915ef8eeed51cdce201f0087746113775313"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"dougong": {
+		"surfaces": [
+			"eddf64040bab0e38e2ab5f0c7bb72e09eb3c9c8380125480395a9cc3ae3bcea0",
+			"d55e481d301ae45af1d7a4ed0307297cf9b45be1599070f768023937e6752d94",
+			"67354f2e284eb8748ec270389bdf02ad6ea26cfe24edd75b445a7cf7a71a63bd"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"floating_under": {
+		"surfaces": [
+			"4e4256d60e6c196aeb4c14aee553fb998f014ca10e3de0c7ae3d88801a7a9748",
+			"a0eddf9014a7415a67d0aabee8f56e8a52c933b35e1abefb0a4c24df74372b97"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"halo": {
+		"surfaces": [
+			"32876d3cbe0f6426c3665a9e6ad8682a1fc0d172a57c09f3145f7ff820d1c9b6",
+			"6e3ca482ecea759a43824dbcbc70c63d6342cea13514a63581d3e763464e46b6"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"lantern": {
+		"surfaces": [
+			"bf6e94d949119233a03000d911eecc5b00f934f986b2f637f00fb1912e3f7815",
+			"bd804f06b3e43c29643dff987ec2df8cf7214ba8e095eebd66569f97eb503538",
+			"d51b2e4adf8572f81e0b5359ff41a4b0fc2f64b050fd6bf571da70576f974979",
+			"6b690d52144ff89b69479f2ed560d84cf2a510b408f72bf4e693782ea4bb2002",
+			"64628b1b86f7035d6aa7e4dba751beeca522a0d158049fa967e8efaa325abe6c"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"lattice_0": {
+		"surfaces": [
+			"f381b08cac355ed55cf10a632f3c0256923f3df401db36671135f7594e390fa7",
+			"6dc2faa23bf156ae19872c03eff5e17dcd8209a5c845ece472b9cc0c6a99497b",
+			"92c7f6b8c355d35f96bbe03f6e0e1818ef2bbadc6505ea227da4f91b25b1bf6e"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"lattice_1": {
+		"surfaces": [
+			"f381b08cac355ed55cf10a632f3c0256923f3df401db36671135f7594e390fa7",
+			"6dc2faa23bf156ae19872c03eff5e17dcd8209a5c845ece472b9cc0c6a99497b",
+			"dc8f51714dba2958b112346d5190dca666e74c47826d0949e962d19cead49f96"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"lattice_2": {
+		"surfaces": [
+			"f381b08cac355ed55cf10a632f3c0256923f3df401db36671135f7594e390fa7",
+			"6dc2faa23bf156ae19872c03eff5e17dcd8209a5c845ece472b9cc0c6a99497b",
+			"288ada340fabf805c55fce61545c9462099bad42ac3ccfee5d28cbb134e26a04"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"paint_beam": {
+		"surfaces": [
+			"ce9819658e55b9fc2fac8f9650b8dcafd17529645c548d3bacfb906ba57691d3",
+			"9758658fb3de9bbe0fe7d9d9e03f790ea52cd7f8e0b4e5f008800518491be344"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"rafter": {
+		"surfaces": [
+			"be841362a6662083baa3ac0c24e188f512176c7244aaafec3395c9cecf869088"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"roof_finial": {
+		"surfaces": [
+			"d19776c7d547040b90cae59db35d05de21354c406da13e889b2bc58729cfac8c"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"round_table": {
+		"surfaces": [
+			"d871a3c940a04954c0fa7e90162f4030a162077697cc014c2f6fa2f85e36c021",
+			"cfe567a32222b70abb7cff11a082168792e27ed7ebdf8b247e44bf6a401350f1"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"screen": {
+		"surfaces": [
+			"40c9dbe8a814c3360cb07d3904cbc6501ba9da729eba245f863e99e1b9033864",
+			"8b5951b181a26b93d1959a4efc507924e44cf880ad02924762a529da40eb67aa",
+			"4f0b627b72567311dc98c4090b4b3e2f27603bda91fa691527f96854eb377a18",
+			"3263cbba1e0ec6014ea3168c3d0609dd4bd4c97d36ecf65126ffadc74a520059"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"settee": {
+		"surfaces": [
+			"d9a0487a58a499c7e5a0cfc52dea627a844a668eba2171ef327659b8c0873e7e",
+			"19468b6d0631e8aaf8b1e1c483b4023ed0910d5ce0920207107c9114636203f9",
+			"9f086902edb53460113c1ba0d494311142cfc39771d962ba0f9eca0c2a1141b9",
+			"27a5ac4fb3ed2cff4e63996c2b8058a21a429602da1b3283735d53907fbf3699"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"table": {
+		"surfaces": [
+			"c9e1e0078b75576b70c3b7ff5179c4d80b6bcacd60151d02193420b6896e950f",
+			"7bc8b319020b360a2d6f549d0d10daf011bee2794a175c6610a43cbb10c0cf0b"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"tile_end": {
+		"surfaces": [
+			"6a91d8599d7b03b4824e83f5f75ecaba4fd8fac92323f23a7e148aa7a75e15c2"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"tile_strip": {
+		"surfaces": [
+			"49d002d7f3cf037377c0f528a19ace403a840346f8d25385d848b9dd0e01469d",
+			"573d3903c0642bc497ca69f8a0f00a9ae9239ab6a35c1dc3494bd1c285f17452"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	},
+	"vase": {
+		"surfaces": [
+			"7aa5581a95914b11b035e8526127b18965c5769efb41f0dda538de765d1020e8",
+			"4ba7c20b11056de2f197f0f28f8bcec0dc6928ccade4f861d08dca9d4f91484f"
+		],
+		"transform": "Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)"
+	}
+}

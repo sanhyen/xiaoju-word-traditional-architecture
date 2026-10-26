@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "assets/craft160/textures/landscape_painting.png",
+      "tool": "built-in image_gen",
+      "prompt": "Create an original Chinese court garden landscape painting as a flat texture asset for a sophisticated architectural videogame's wooden folding screen. Landscape ratio 3:2. Entire image is the painting, absolutely no frame, no room, no photograph of a painting, no text, no signatures, no borders, no watermarks. Refined hand-painted gongbi landscape on warm muted ivory silk: layered misty blue-green mountains in upper background, a tranquil lake, delicate old pine trees, a very small copper-green roof garden pavilion on a rocky shore, flowering branches. Fine hairline ink brushwork, restrained mineral pigment greens, muted blue-grey, warm ochre accents. Elegant airy composition with intricate foliage and rock texture, abundant quiet pale mist so it reads gracefully inside a richly carved wood screen. NOT photorealistic landscape, NOT a 3D render, NOT a mockup. The work should be original, not copy a specific existing painting.",
+      "sha256": "eb54a65437efe5c6b18691abbd0cd48bcadbb703d1e0b87e125a2eb24eb015bd",
+      "use": "original decorative texture, not runtime evidence"
+    },
+    {
+      "asset": "assets/craft160/textures/artisan_paint.png",
+      "tool": "built-in image_gen",
+      "prompt": "Asset type: original flat albedo texture for a carved palace wooden beam inside a real-time 3D architectural game. Create an extremely finely detailed traditional Chinese imperial architectural polychrome decorative panel, horizontal 4:1 composition. Entire image is one rectangular painted panel viewed exactly straight on, no perspective, no room, no wood beam object, no shadows, no text, no lettering, no watermark. Deep malachite green and midnight teal ground, fine subdued gold outlines, azurite blue accents, warm muted vermilion details. Very rich and intricate interlacing lotus scrolls, ruyi cloud curls, small geometric brocade infill, restrained symmetrical central lotus medallion with smaller medallions along the horizontal axis. Nested fine gold border lines with geometric meander inside the margins, neatly closed corners. Exquisite painstaking brush painting with thin and thick line hierarchy, highly refined museum-grade craft, organized readable ornamental composition, delicate original pattern inspired by Chinese palace beam painting, not a copy of a specific artwork. Even diffuse illumination and matte pigments, texture map suitable for a 3D game, absolutely no photographic glare or cast shadows.",
+      "sha256": "95befd59399864a4d0d5a6e58a8a0856e3e1f93ec14aecf4d9e1f89727329d9e",
+      "use": "original decorative texture, not runtime evidence"
+    }
+  ],
+  "geometry": "original editable Python curved meshes and standard glTF 2.0 GLB",
+  "museum_photos": "reference only, not included in runtime textures",
+  "font": "Noto Sans SC; OFL.txt supplied with font",
+  "historical_reconstruction": false,
+  "world_adaptation": {
+    "geometry": "tools/craft160_world_assets.py and candidate/scripts/precision_craft160.gd",
+    "groups": 26,
+    "scope": "83 existing buildings and northeast floating scenery; original sample decorative bitmap textures reused",
+    "no_user_portrait_generation": true
+  }
+}
